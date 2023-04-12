@@ -1,2 +1,2 @@
 # Pharmacy-Web
-Online pharmacy store using Angular + Java (Spring boot)
+Online pharmacy store using React + Java (Spring boot)
