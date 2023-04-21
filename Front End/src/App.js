@@ -1,11 +1,8 @@
-import Splash from './Splash';
+import React from "react";
 
-function App() {
-  return (
-    <div className="App">
-      <Splash />
-    </div>
-  );
+const App = () => {
+  return <div className = 'overflow-hidden'> Pharmacy web
+  </div>
 }
 
 export default App;
