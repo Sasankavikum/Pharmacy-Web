@@ -25,7 +25,6 @@ const Home = () => {
       </section>
     </div>
   );
-  return <div>Home</div>;
 };
 
 export default Home;
